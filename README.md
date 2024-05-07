@@ -27,4 +27,4 @@ Services would be running:
 | `s3-reverse-proxy` | `:8000` |
 
 
-![Architecture diagram](https://i.imgur.com/r7QUXqZ.png)
+![Architecture diagram](https://github.com/Reneechang17/VercelBackBuild-v1/blob/main/system-design-pic/v1.jpg)
